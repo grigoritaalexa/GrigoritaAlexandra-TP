@@ -1,0 +1,3 @@
+Challenge local: decodeaza Base64, apoi incearca toate cheile XOR de un octet.
+Verifica mesajul recuperat cu hash-ul SHA-256 de mai jos.
+SHA256: a5e08b3296b99d55c943688237be280d9a8146172f3e5b19b42cde5b51736135
