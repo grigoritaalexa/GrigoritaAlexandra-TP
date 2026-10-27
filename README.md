@@ -1,1 +1,1 @@
-Aici exersez git.
+Aici exersez git, cat de cat).
